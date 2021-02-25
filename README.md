@@ -18,6 +18,9 @@ Monte Carlo Simulated AI for playing against real player.
   - The board in current state.
   
 {0: 0.666, 1: 1.0, 2: 0.314, 3: 0.6625}
+
 [['X' '_' 'O']
+
  ['X' 'O' '_']
+ 
  ['O' '_' 'X']]
